@@ -7,14 +7,14 @@ The purpose of EDA is to use summary statistics and visualizations to better und
 
 EDA or Exploratory Data Analysis is an approach for summarizing, visualizing, and becoming intimately familiar with the important characteristics of a data set.
 
-#The main objective is to cover how to:
+# The main objective is to cover how to:
 1. Read and examine a dataset and classify variables by their type: Quantitative vs. Categorical
 2. Handle categorical variables with numerically coded values
 3. Perform univariate and bivariate analysis and derive meaningful insights about the dataset
 4. Identify and treat missing values and remove dataset outliers
 5. Build a correlation matrix to identify relevant variables
 
-The dataset contains a detailed set of products in an inventory and the main problem statement here is to determine the products that should continue to sell, and which products to remove from the inventory.
+## The dataset contains a detailed set of products in an inventory and the main problem statement here is to determine the products that should continue to sell, and which products to remove from the inventory.
 
 The file contains the observations of both historical sales and active inventory data.
 
@@ -22,7 +22,7 @@ The end solution here is to create a model that will predict which products to k
 
 we’ll perform EDA on this data to understand the data better.
 
-Content: 
+# Content: 
 
 The file contains historical sales data (identified with the column titled File_Type) along with current active inventory that is in need of evaluation (i.e., File Type = "Active").
 
