@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-EDA
+# Exploratory-Data-Analysis-(EDA)
 Exploratory Data Analysis (EDA) of "Historical Sales and Active Inventory"
 
 EDA or Exploratory Data Analysis is the brainstorming stage of Machine Learning. It is a very important step which takes place after feature engineering and acquiring data and it should be done before any modeling. It's very important for a data scientist to be able to understand the nature of the data without making assumptions.
