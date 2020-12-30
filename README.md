@@ -22,7 +22,7 @@ The end solution here is to create a model that will predict which products to k
 
 we’ll perform EDA on this data to understand the data better.
 
-#Content: 
+Content: 
 
 The file contains historical sales data (identified with the column titled File_Type) along with current active inventory that is in need of evaluation (i.e., File Type = "Active").
 
