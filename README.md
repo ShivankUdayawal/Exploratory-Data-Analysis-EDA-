@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-EDA-
+# Exploratory-Data-Analysis-EDA
 Exploratory Data Analysis (EDA) of "Historical Sales and Active Inventory"
 
 EDA or Exploratory Data Analysis is the brainstorming stage of Machine Learning. It is a very important step which takes place after feature engineering and acquiring data and it should be done before any modeling. It's very important for a data scientist to be able to understand the nature of the data without making assumptions.
@@ -7,7 +7,7 @@ The purpose of EDA is to use summary statistics and visualizations to better und
 
 EDA or Exploratory Data Analysis is an approach for summarizing, visualizing, and becoming intimately familiar with the important characteristics of a data set.
 
-The main objective is to cover how to:
+#The main objective is to cover how to:
 1. Read and examine a dataset and classify variables by their type: Quantitative vs. Categorical
 2. Handle categorical variables with numerically coded values
 3. Perform univariate and bivariate analysis and derive meaningful insights about the dataset
@@ -22,7 +22,7 @@ The end solution here is to create a model that will predict which products to k
 
 we’ll perform EDA on this data to understand the data better.
 
-Content: 
+#Content: 
 
 The file contains historical sales data (identified with the column titled File_Type) along with current active inventory that is in need of evaluation (i.e., File Type = "Active").
 
