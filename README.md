@@ -44,3 +44,6 @@ A few comments about the attributes included, as we realize we may have some att
 
 --> New_Release_Flag = Any product that has had a future release (i.e., Release Number > 1)
 
+## Visualising Data
+
+![](images/file:///C:/Users/Shivank/Downloads/marketingtype.png)
