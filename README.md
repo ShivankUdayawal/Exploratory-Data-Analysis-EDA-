@@ -46,4 +46,4 @@ A few comments about the attributes included, as we realize we may have some att
 
 ## Visualising Data
 
-![](images/file:///C:/Users/Shivank/Downloads/marketingtype.png)
+![](images/filetype.png)
