@@ -54,9 +54,12 @@ A few comments about the attributes included, as we realize we may have some att
 
 ![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-/blob/main/strengthfactor.png)
 
+
 ![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-/blob/main/pairplot.png)
 
+
 ![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-/blob/main/heatmap.png)
+
 
 ![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-/blob/main/itemcount.png)
 
